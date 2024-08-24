@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-
+  "homepage": "https://Nizar-Esmat.github.io/Start-Framework/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
